@@ -1,0 +1,14 @@
+layout_spectrum: 0.7437276
+typography_spectrum: 0.8978494
+color:
+  saturation: 0.9462366
+  lightness: 0.7329749
+  brandStrength: 0.1469534
+  rhythmicContrast: 0.5217689
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: SSC
