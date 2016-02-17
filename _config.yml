@@ -2,6 +2,7 @@ name: SSC
 favicon: null
 layout_spectrum: 0.7437276
 typography_spectrum: 0.40805
+title: project S
 cta:
   domain: null
   bucket: null
